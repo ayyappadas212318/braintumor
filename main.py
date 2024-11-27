@@ -27,7 +27,7 @@ app_mode=st.sidebar.selectbox("select page",["Home","About","Tumor Recognition"]
 
 #home page
 if(app_mode=="Home"):
-    st.header("AMRITAhealth")
+    st.header("futureSCAN")
     st.subheader("BRAIN TUMOR RECOGNITION SYSTEM")
 
     image_path="brain.png"
