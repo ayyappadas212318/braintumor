@@ -39,6 +39,7 @@ if(app_mode=="Home"):
 
     ### How It Works
     1.If you are using your mobile phone,click on the arrow present at the top-left corner of the webpage.This will lead you to the Dashboard.
+    
     2. **Upload Image:** Go to the **Tumor Recognition** page and upload an image of a mri scan with suspected diseases.
     3. **Analysis:** Our system will process the image using advanced algorithms to identify potential tumors.
     4. **Results:** View the results and recommendations for further action.
