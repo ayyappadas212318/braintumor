@@ -38,10 +38,10 @@ if(app_mode=="Home"):
     Our mission is to help in identifying brain tumors efficiently. Upload an image of a brain mri scan, and our system will analyze it to detect any signs of diseases. 
 
     ### How It Works
-    1.Click on the arrow present at the top-left corner of the webpage.This will lead you to the Dashboard.
-    1. **Upload Image:** Go to the **Tumor Recognition** page and upload an image of a mri scan with suspected diseases.
-    2. **Analysis:** Our system will process the image using advanced algorithms to identify potential tumors.
-    3. **Results:** View the results and recommendations for further action.
+    1.If you are using your mobile phone,click on the arrow present at the top-left corner of the webpage.This will lead you to the Dashboard.
+    2. **Upload Image:** Go to the **Tumor Recognition** page and upload an image of a mri scan with suspected diseases.
+    3. **Analysis:** Our system will process the image using advanced algorithms to identify potential tumors.
+    4. **Results:** View the results and recommendations for further action.
 
     ### Why Choose Us?
     - **Accuracy:** Our system utilizes state-of-the-art machine learning techniques for accurate disease detection.
