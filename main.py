@@ -31,7 +31,7 @@ if(app_mode=="Home"):
     st.subheader("BRAIN TUMOR RECOGNITION SYSTEM")
 
     image_path="brain.png"
-    st.image(image_path,use_column_width=True)
+    st.image(image_path,use_container_width=True)
     st.markdown("""
  Welcome to the Brain Tumor Recognition System! 
     
@@ -76,7 +76,7 @@ elif(app_mode=="Tumor Recognition"):
     test_image=st.file_uploader("Choose an Image:")
 
     if(st.button("show image")):
-        st.image(test_image,use_column_width=True)
+        st.image(test_image,use_container_width=True)
     #predict button
     if(st.button("Predict")):
         with st.spinner("please wait..."):
